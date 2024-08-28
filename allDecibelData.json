@@ -1,0 +1,1442 @@
+[
+  {
+    "timestamp": 3242620,
+    "average": 52.92
+  },
+  {
+    "timestamp": 3243120,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3243620,
+    "average": 52.76
+  },
+  {
+    "timestamp": 3244120,
+    "average": 52.9
+  },
+  {
+    "timestamp": 3244620,
+    "average": 53.02
+  },
+  {
+    "timestamp": 3245120,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3245620,
+    "average": 52.74
+  },
+  {
+    "timestamp": 3246120,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3246620,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3247120,
+    "average": 52.8
+  },
+  {
+    "timestamp": 3247620,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3248120,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3248620,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3249120,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3249620,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3250120,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3250620,
+    "average": 52.84
+  },
+  {
+    "timestamp": 3251120,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3251620,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3252120,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3252620,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3253120,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3253620,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3254120,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3254620,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3255120,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3255620,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3256120,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3256620,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3257120,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3257620,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3258120,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3258620,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3259120,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3259620,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3260120,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3260620,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3261120,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3261620,
+    "average": 52.84
+  },
+  {
+    "timestamp": 3262120,
+    "average": 52.9
+  },
+  {
+    "timestamp": 3262620,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3263120,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3263620,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3264120,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3264620,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3265120,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3265620,
+    "average": 52.82
+  },
+  {
+    "timestamp": 3266120,
+    "average": 52.86
+  },
+  {
+    "timestamp": 3266620,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3267120,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3267620,
+    "average": 52.98
+  },
+  {
+    "timestamp": 3268120,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3268620,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3269120,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3269620,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3270120,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3270620,
+    "average": 52.32
+  },
+  {
+    "timestamp": 3271120,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3271620,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3272120,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3276451,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3276951,
+    "average": 52.78
+  },
+  {
+    "timestamp": 3277451,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3277951,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3278451,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3278951,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3279451,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3279951,
+    "average": 52.74
+  },
+  {
+    "timestamp": 3280451,
+    "average": 52.76
+  },
+  {
+    "timestamp": 3280951,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3281451,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3281951,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3282451,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3282951,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3283451,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3283951,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3284451,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3284951,
+    "average": 52.8
+  },
+  {
+    "timestamp": 3285451,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3285951,
+    "average": 52.74
+  },
+  {
+    "timestamp": 3286451,
+    "average": 52.76
+  },
+  {
+    "timestamp": 3286951,
+    "average": 52.76
+  },
+  {
+    "timestamp": 3287451,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3287951,
+    "average": 52.84
+  },
+  {
+    "timestamp": 3288451,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3288951,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3289451,
+    "average": 52.84
+  },
+  {
+    "timestamp": 3289951,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3290451,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3290951,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3291451,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3291951,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3292451,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3292951,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3293451,
+    "average": 52.72
+  },
+  {
+    "timestamp": 3293951,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3294451,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3294951,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3295451,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3295951,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3296451,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3296951,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3297451,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3297951,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3298451,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3298951,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3299451,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3299951,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3300451,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3300951,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3301451,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3301951,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3302451,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3302951,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3303451,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3303951,
+    "average": 52.64
+  },
+  {
+    "timestamp": 3304451,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3304951,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3305451,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3305951,
+    "average": 52.74
+  },
+  {
+    "timestamp": 3309742,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3310242,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3310742,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3311242,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3311742,
+    "average": 52.94
+  },
+  {
+    "timestamp": 3312242,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3312742,
+    "average": 52.82
+  },
+  {
+    "timestamp": 3313242,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3313742,
+    "average": 52.9
+  },
+  {
+    "timestamp": 3314242,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3314742,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3315242,
+    "average": 52.74
+  },
+  {
+    "timestamp": 3315742,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3316242,
+    "average": 52.82
+  },
+  {
+    "timestamp": 3316742,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3317242,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3317742,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3318242,
+    "average": 52.8
+  },
+  {
+    "timestamp": 3318742,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3319242,
+    "average": 52.32
+  },
+  {
+    "timestamp": 3319742,
+    "average": 52.8
+  },
+  {
+    "timestamp": 3320242,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3320742,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3321242,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3321742,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3322242,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3322742,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3323242,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3323742,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3324242,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3324742,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3325242,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3325742,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3326242,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3326742,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3327242,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3327742,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3328242,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3328742,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3329242,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3329742,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3330242,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3330742,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3331242,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3331742,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3332242,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3332742,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3333242,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3333742,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3334242,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3334742,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3335242,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3335742,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3336242,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3336742,
+    "average": 52.68
+  },
+  {
+    "timestamp": 3337242,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3337742,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3338242,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3338742,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3339242,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3380276,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3380776,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3381276,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3381776,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3382276,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3382776,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3383276,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3383776,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3384276,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3384776,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3385276,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3385776,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3386276,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3386776,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3387276,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3387776,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3388276,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3388776,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3389276,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3389776,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3390276,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3390776,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3391276,
+    "average": 52.58
+  },
+  {
+    "timestamp": 3391776,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3392276,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3392776,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3393276,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3393776,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3394276,
+    "average": 52.62
+  },
+  {
+    "timestamp": 3394776,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3395276,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3395776,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3396276,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3396776,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3397276,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3397776,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3398276,
+    "average": 52.1
+  },
+  {
+    "timestamp": 3398776,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3399276,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3399776,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3400276,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3400776,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3401276,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3401776,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3402276,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3402776,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3403276,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3403776,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3404276,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3404776,
+    "average": 52.12
+  },
+  {
+    "timestamp": 3405276,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3405776,
+    "average": 52.2
+  },
+  {
+    "timestamp": 3406276,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3406776,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3407276,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3407776,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3408276,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3408776,
+    "average": 51.98
+  },
+  {
+    "timestamp": 3409276,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3409776,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3447513,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3448013,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3448513,
+    "average": 52.48
+  },
+  {
+    "timestamp": 3449013,
+    "average": 52.32
+  },
+  {
+    "timestamp": 3449513,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3450013,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3450513,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3451013,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3451513,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3452013,
+    "average": 52.22
+  },
+  {
+    "timestamp": 3452513,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3453013,
+    "average": 52.22
+  },
+  {
+    "timestamp": 3453513,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3454013,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3454513,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3455013,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3455513,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3456013,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3456513,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3457013,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3457513,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3458013,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3458513,
+    "average": 52.32
+  },
+  {
+    "timestamp": 3459013,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3459513,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3460013,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3460513,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3461013,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3461513,
+    "average": 52.52
+  },
+  {
+    "timestamp": 3462013,
+    "average": 52.22
+  },
+  {
+    "timestamp": 3462513,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3463013,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3463513,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3464013,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3464513,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3465013,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3465513,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3466013,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3466513,
+    "average": 52.1
+  },
+  {
+    "timestamp": 3467013,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3467513,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3468013,
+    "average": 52.02
+  },
+  {
+    "timestamp": 3468513,
+    "average": 52.1
+  },
+  {
+    "timestamp": 3469013,
+    "average": 52.2
+  },
+  {
+    "timestamp": 3469513,
+    "average": 52.2
+  },
+  {
+    "timestamp": 3470013,
+    "average": 52.06
+  },
+  {
+    "timestamp": 3470513,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3471013,
+    "average": 52.16
+  },
+  {
+    "timestamp": 3471513,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3472013,
+    "average": 52.16
+  },
+  {
+    "timestamp": 3472513,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3473013,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3473513,
+    "average": 52.32
+  },
+  {
+    "timestamp": 3474013,
+    "average": 52.22
+  },
+  {
+    "timestamp": 3474513,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3475013,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3475513,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3476013,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3476513,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3477013,
+    "average": 52.38
+  },
+  {
+    "timestamp": 3514862,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3515362,
+    "average": 52.16
+  },
+  {
+    "timestamp": 3515862,
+    "average": 52.18
+  },
+  {
+    "timestamp": 3516362,
+    "average": 52.34
+  },
+  {
+    "timestamp": 3516862,
+    "average": 51.98
+  },
+  {
+    "timestamp": 3517362,
+    "average": 52.16
+  },
+  {
+    "timestamp": 3517862,
+    "average": 52.14
+  },
+  {
+    "timestamp": 3518362,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3518862,
+    "average": 52.8
+  },
+  {
+    "timestamp": 3519362,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3519862,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3520362,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3520862,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3521362,
+    "average": 52.6
+  },
+  {
+    "timestamp": 3521862,
+    "average": 52.66
+  },
+  {
+    "timestamp": 3522362,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3522862,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3523362,
+    "average": 52.46
+  },
+  {
+    "timestamp": 3523862,
+    "average": 52.44
+  },
+  {
+    "timestamp": 3524362,
+    "average": 52.5
+  },
+  {
+    "timestamp": 3524862,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3525362,
+    "average": 52.56
+  },
+  {
+    "timestamp": 3525862,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3526362,
+    "average": 52.7
+  },
+  {
+    "timestamp": 3526862,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3527362,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3527862,
+    "average": 52.42
+  },
+  {
+    "timestamp": 3528362,
+    "average": 52.26
+  },
+  {
+    "timestamp": 3528862,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3529362,
+    "average": 52.12
+  },
+  {
+    "timestamp": 3529862,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3530362,
+    "average": 52.14
+  },
+  {
+    "timestamp": 3530862,
+    "average": 52.08
+  },
+  {
+    "timestamp": 3531362,
+    "average": 52.4
+  },
+  {
+    "timestamp": 3531862,
+    "average": 52.12
+  },
+  {
+    "timestamp": 3532362,
+    "average": 52
+  },
+  {
+    "timestamp": 3532862,
+    "average": 52.3
+  },
+  {
+    "timestamp": 3533362,
+    "average": 52.36
+  },
+  {
+    "timestamp": 3533862,
+    "average": 52.12
+  },
+  {
+    "timestamp": 3534362,
+    "average": 52.02
+  },
+  {
+    "timestamp": 3534862,
+    "average": 51.98
+  },
+  {
+    "timestamp": 3535362,
+    "average": 51.8
+  },
+  {
+    "timestamp": 3535862,
+    "average": 52.12
+  },
+  {
+    "timestamp": 3536362,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3536862,
+    "average": 52.06
+  },
+  {
+    "timestamp": 3537362,
+    "average": 52.22
+  },
+  {
+    "timestamp": 3537862,
+    "average": 52.06
+  },
+  {
+    "timestamp": 3538362,
+    "average": 52.06
+  },
+  {
+    "timestamp": 3538862,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3539362,
+    "average": 52.1
+  },
+  {
+    "timestamp": 3539862,
+    "average": 51.92
+  },
+  {
+    "timestamp": 3540362,
+    "average": 52.14
+  },
+  {
+    "timestamp": 3540862,
+    "average": 52.04
+  },
+  {
+    "timestamp": 3541362,
+    "average": 52.24
+  },
+  {
+    "timestamp": 3541862,
+    "average": 52.54
+  },
+  {
+    "timestamp": 3542362,
+    "average": 52.04
+  },
+  {
+    "timestamp": 3542862,
+    "average": 51.82
+  },
+  {
+    "timestamp": 3543362,
+    "average": 52.28
+  },
+  {
+    "timestamp": 3543862,
+    "average": 52.04
+  },
+  {
+    "timestamp": 3544362,
+    "average": 52.02
+  }
+]
