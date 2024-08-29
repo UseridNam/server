@@ -11,6 +11,7 @@ const port = 3000;
 let allData = [];  // Array to store all decibel data received
 let decibelData = [];  // Array to store the last 50 decibel data points
 let clients = [];  // Array to store connected WebSocket clients
+let lastReceivedTime = Date.now(); // Last received timestamp in milliseconds
 
 app.use(bodyParser.json());
 
@@ -48,13 +49,16 @@ app.post('/data', (req, res) => {
             }
         });
 
+        // Update last received time
+        lastReceivedTime = Date.now();
+
         res.send('Data received');
     } else {
         res.status(400).send('Invalid data format');
     }
 });
 
-// Serve the webpage with hardcoded data for testing
+// Serve the webpage
 app.get('/', (req, res) => {
     res.send(`
         <!DOCTYPE html>
@@ -75,7 +79,7 @@ app.get('/', (req, res) => {
             const ctx = document.getElementById('decibelChart').getContext('2d');
             let decibelData = [];
             let labels = [];
-
+            
             const chart = new Chart(ctx, {
               type: 'line',
               data: {
@@ -103,29 +107,34 @@ app.get('/', (req, res) => {
               }
             });
 
-            // Simulate receiving data every second
-            setInterval(function() {
-              // Create hardcoded data
-              const currentTime = new Date().toLocaleTimeString();
-              const randomDecibel = Math.floor(Math.random() * (90 - 30 + 1)) + 30; // Random value between 30 and 90
-              
-              // Push the new data into the chart
-              decibelData.push(randomDecibel);
-              labels.push(currentTime);
-              
-              // Limit to the last 50 data points
-              if (decibelData.length > 50) {
-                decibelData.shift();
-                labels.shift();
+            // Connect to WebSocket server
+            const socket = new WebSocket('ws://' + window.location.host);
+            
+            // Handle incoming WebSocket messages
+            socket.onmessage = function(event) {
+              const data = JSON.parse(event.data);
+              if (data.average !== undefined && data.timestamp !== undefined) {
+                // Update the averages display
+                const averagesDisplay = document.getElementById('averagesDisplay');
+                averagesDisplay.innerHTML = 'Latest Averages: ' + data.average.toFixed(2) + ' dB';
+
+                // Push the new data into the chart
+                decibelData.push(data.average);
+                labels.push(data.timestamp); // Use the formatted time for the x-axis labels
+                
+                // Limit to the last 50 data points
+                if (decibelData.length > 50) {
+                  decibelData.shift();
+                  labels.shift();
+                }
+
+                chart.update();  // Update the chart with new data
+
+                // Update the data count display
+                const dataCountDisplay = document.getElementById('dataCountDisplay');
+                dataCountDisplay.innerHTML = 'Number of Data Points on Graph: ' + decibelData.length;
               }
-              
-              // Update the chart with new data
-              chart.update();
-              
-              // Update the averages display
-              document.getElementById('averagesDisplay').innerHTML = 'Latest Averages: ' + randomDecibel.toFixed(2) + ' dB';
-              document.getElementById('dataCountDisplay').innerHTML = 'Number of Data Points on Graph: ' + decibelData.length;
-            }, 1000);
+            };
 
             // Download all data when the button is clicked
             document.getElementById('downloadBtn').addEventListener('click', function() {
